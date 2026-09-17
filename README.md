@@ -44,7 +44,10 @@ The dashboard transforms raw sales data into meaningful business insights throug
 
 ## 🖥️ Dashboard Preview
 
-![Superstore Sales Dashboard](dashboard.png)
+<img width="1212" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/3372549e-6184-4779-a630-2285653eea5b" />
+
+
+
 
 ## 🚀 Project Outcome
 
