@@ -42,13 +42,6 @@ The dashboard transforms raw sales data into meaningful business insights throug
 
 **Skills:** Data Cleaning, Data Transformation, Data Analysis, Data Modeling, DAX Measures, KPI Development & Data Visualization
 
-## 🖥️ Dashboard Preview
-
-<img width="1212" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/3372549e-6184-4779-a630-2285653eea5b" />
-
-
-
-
 ## 🚀 Project Outcome
 
 This project demonstrates the use of Power BI to transform raw sales data into an interactive dashboard for business performance analysis.
