@@ -42,9 +42,6 @@ The dashboard transforms raw sales data into meaningful business insights throug
 
 **Skills:** Data Cleaning, Data Transformation, Data Analysis, Data Modeling, DAX Measures, KPI Development & Data Visualization
 
-## Dashboard Preview
-<img width="1212" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/b078abf9-ccd0-4f91-8535-d4fdbef8c8be" />
-
 
 ## 🚀 Project Outcome
 
@@ -53,4 +50,8 @@ This project demonstrates the use of Power BI to transform raw sales data into a
 ## 👩‍💻 Author
 
 **Diveya Vasudev**  
-BCA Student | Data Science & AI/ML Learner
+BCA Student | Data Science & AI/ML Learners.
+
+
+<img width="1212" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/b078abf9-ccd0-4f91-8535-d4fdbef8c8be" />
+
